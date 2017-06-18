@@ -14,4 +14,4 @@
   yardoc lib
 
   echo "starting bot.."
-  ruby main.rb
+  bundle exec ruby main.rb
