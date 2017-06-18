@@ -1,3 +1,4 @@
+require 'active_support/core_ext/enumerable'
 require 'net/http'
 require 'open-uri'
 require 'discordrb'
