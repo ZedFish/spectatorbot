@@ -1,6 +1,5 @@
 require 'net/http'
 require 'open-uri'
-require 'active_support/core_ext/enumerable'
 require 'discordrb'
 require 'nokogiri'
 require 'yaml'
