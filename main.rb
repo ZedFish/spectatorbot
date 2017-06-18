@@ -1,3 +1,4 @@
+require 'active_support/core_ext/enumerable'
 require 'discordrb'
 require 'yaml'
 require './process.rb'
